@@ -5,7 +5,7 @@
 
 ## Sobre esse projeto
 
-Este projeto utiliza HTML e CSS para exibir imagens de forma aleatória a cada recarregamento da página. Seu principal objetivo é aplicar práticas de propriedades, como, por exemplo, transform e transition, a fim de alcançar das imagens acima.
+Este projeto utiliza HTML e CSS para exibir imagens de forma aleatória a cada recarregamento da página. Seu principal objetivo é aplicar práticas de propriedades, como, por exemplo, transform e transition, a fim de alcançar o efeito das imagens acima.
 
 ## Why?
 
